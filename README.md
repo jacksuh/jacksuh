@@ -1,8 +1,13 @@
 ### Ola! Eu Sou Jackson Santos
 
-Abaixo algumas das técnologias que estou me aventurando.
 
 ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br>
+
+Estou estudando e me aprofundando em JAVA, porém sempre que preciso estudo algumas outras tecnologias.
+
+Abaixo algumas das técnologias que estou me aventurando.
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
