@@ -27,7 +27,6 @@ Abaixo algumas das técnologias que estou me aventurando.
   ![Jackson Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksuh&show_icons=true&theme=radical)
 <br/>
 
- 
   <a href="https://www.linkedin.com/in/jackson-santos-45728957" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
