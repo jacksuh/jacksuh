@@ -3,7 +3,7 @@
 
 ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br>
 
-Desenvolvedor de Software Java, Spring Boot, outras tecnologias que utilizo abaixo.
+Desenvolvedor de Software Java, Spring Boot, Pós graduado Em engenharia de software.
 
 
 
