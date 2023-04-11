@@ -24,8 +24,8 @@ Desenvolvedor de Software Java, Spring Boot, Pós graduado Em engenharia de soft
   
   ![Jackson Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksuh&show_icons=true&theme=radical)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jezebel1990&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jezebel1990&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jacksuh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksuh0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
   <a href="https://www.linkedin.com/in/jackson-santos-45728957" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
